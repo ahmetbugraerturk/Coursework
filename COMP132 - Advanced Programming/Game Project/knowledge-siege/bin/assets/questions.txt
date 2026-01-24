@@ -1,0 +1,33 @@
+Easy
+What is Object-Oriented Programming (OOP)?
+What is a class in Java?
+What is an object in OOP?
+What is inheritance in OOP?
+What is encapsulation?
+What is the difference between a class and an object?
+What does the new keyword do in Java?
+What is a constructor?
+What is a method?
+What is the purpose of the this keyword?
+Medium
+What is polymorphism in OOP?
+What is method overloading?
+What is method overriding?
+What is an abstract class?
+What is the difference between abstract and interface?
+What is the purpose of access modifiers (public, private, protected)?
+How does composition differ from inheritance?
+What is the difference between static and instance methods?
+What is the role of super keyword?
+What are getters and setters and why are they used?
+Hard
+What are design patterns in OOP?
+How does the SOLID principle relate to OOP?
+What is the Liskov Substitution Principle?
+What are the key differences between composition and aggregation?
+How do you implement a Singleton pattern in Java?
+How does Java handle multiple inheritance?
+What is dynamic binding and how does it work in Java?
+How is memory management handled in Java with respect to objects?
+What is the role of interfaces in achieving abstraction?
+How would you refactor a large class with too many responsibilities?

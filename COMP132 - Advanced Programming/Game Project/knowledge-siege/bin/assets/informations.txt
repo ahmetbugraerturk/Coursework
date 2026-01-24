@@ -1,0 +1,33 @@
+Easy
+A class is a blueprint for creating objects in Java.
+An object is an instance of a class.
+Inheritance allows one class to inherit fields and methods from another class.
+Encapsulation hides the internal state of an object from the outside.
+Methods are functions defined inside a class.
+Constructors are special methods used to initialize objects.
+The this keyword refers to the current object in a class.
+You use the new keyword to create an object from a class.
+A class can have multiple constructors with different parameters.
+Fields in a class can be private to restrict direct access.
+Medium
+Polymorphism allows methods to behave differently based on the object.
+Overloading allows multiple methods with the same name but different parameters.
+Overriding lets a subclass provide a specific implementation of a method.
+Abstract classes can have both abstract and concrete methods.
+Interfaces contain only abstract methods by default (before Java 8).
+The super keyword refers to the parent class of the current object.
+Java supports single inheritance with classes but multiple inheritance with interfaces.
+Static methods belong to the class, not the object.
+Composition means creating complex objects by combining simpler ones.
+Private members can only be accessed within the same class.
+Hard
+The SOLID principles are a set of design rules for writing maintainable OOP code.
+The Open/Closed Principle says software should be open for extension, but closed for modification.
+The Liskov Substitution Principle says subclasses should be usable in place of their parent classes.
+The Dependency Inversion Principle encourages depending on abstractions, not concrete classes.
+Java uses the JVM and garbage collection to manage object memory.
+Design patterns like Singleton and Factory help solve common software design problems.
+Dynamic binding means that method calls are resolved at runtime based on the object type.
+Aggregation represents a "has-a" relationship where the child can exist independently.
+Interface-based programming promotes flexibility and testability.
+Refactoring large classes into smaller ones improves code readability and maintainability.

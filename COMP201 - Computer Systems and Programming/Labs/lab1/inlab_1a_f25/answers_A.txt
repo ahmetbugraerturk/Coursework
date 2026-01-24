@@ -1,0 +1,8 @@
+I am Ahmet Buğra Ertürk. I hereby declare that I have completed this assignment with honesty and integrity.
+touch report_part1.txt report_part2.txt
+mkdir submission submission/code submission/code/src
+mv main_log.txt logs/archive_log.txt
+chmod 750 script_A.sh
+find cache/. -name "*.bak" -delete
+find -name "*.conf" | wc -l
+echo "System Ready" >> status.log

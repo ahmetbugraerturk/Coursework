@@ -1,0 +1,20 @@
+1) T: 16
+   I: 11
+   O: 5
+
+2) Miss Rate: 0.16
+
+3) 2.13
+
+4)
+     a)sumRows => 16,384 , sumColumns => 262,144
+     b)sumRows => 33 , sumColumns => 32
+     c)sumRows => 12 , sumColumns => 31
+     d) sumRows is more cache friendly because its locality is better that sumColumns since elements of the row of a 2D arrays in C are located adjacently and but rows don't have to be located adjacently, so when we try to iterate elements in row to find the sum of rows, most of the element of the row have alreadey been in cache because of the locality. However, when we try to find sum of columns, we have to move on different rows and they might be far away from each others in memory so because of locality we should replace the cache for each iteration.
+
+5) Our cache block size is 64B accoring to callgrind which means in one block we could have 8 long or 16 int. Therefore, if we use int, after first miss we can have 15 hit but if we use long after first miss we could have 7 hit. So, int is more efficient in terms of miss rate.
+
+6)
+	Ir: number of instruction read
+	Dr: number of data read
+	Dw: number of data write

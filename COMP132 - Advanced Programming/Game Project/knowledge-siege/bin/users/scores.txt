@@ -1,0 +1,8 @@
+200,bedirhankokduman,1
+300,gürayk,1
+310,halilibo,1
+120,gürayk,2
+230,bedirhankokduman,2
+200,halilibo,2
+320,ahmetbugra,1
+50,ahmetbugra,2
