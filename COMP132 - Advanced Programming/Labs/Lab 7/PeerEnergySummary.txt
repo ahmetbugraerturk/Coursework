@@ -1,0 +1,9 @@
+Peer ID: TRADE1 | Generated: 20.0 | Needed: 20.0 | Excess: 0.0 | Balance: 820.0 | Sold: 80.0 kWh
+Peer ID: D4E5F6 | Generated: 10.0 | Needed: 10.0 | Excess: 0.0 | Balance: 470.0 | Bought: 20.0 kWh
+Peer ID: TRADE3 | Generated: 60.0 | Needed: 40.0 | Excess: 20.0 | Balance: 645.0 | Sold: 30.0 kWh
+Peer ID: M1N2O3 | Generated: 80.0 | Needed: 40.0 | Excess: 40.0 | Balance: 600.0
+Peer ID: TRADE2 | Generated: 10.0 | Needed: 10.0 | Excess: 0.0 | Balance: 325.0 | Bought: 50.0 kWh
+Peer ID: TRADE4 | Generated: 10.0 | Needed: 10.0 | Excess: 0.0 | Balance: 240.0 | Bought: 40.0 kWh
+Peer ID: X1Y2Z4 | Generated: 760.0 | Needed: 20.0 | Excess: 740.0 | Balance: 60.0
+Peer ID: A1B2C3 | Generated: 50.0 | Needed: 20.0 | Excess: 30.0 | Balance: 1000.0
+Peer ID: X1Y2Z3 | Generated: 60.0 | Needed: 200.0 | Excess: -140.0 | Balance: 900.0

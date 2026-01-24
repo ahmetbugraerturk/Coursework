@@ -1,0 +1,3 @@
+Eastwatch by the Sea: {'house': 'Eyrie', 'soldiers': 3240, 'weapons': 1850}
+Castle Black: {'house': 'Targaryen', 'soldiers': 6280, 'weapons': 4020}
+Shadow Tower: {'house': 'Tully', 'soldiers': 5190, 'weapons': 2280}

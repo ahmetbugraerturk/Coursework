@@ -1,0 +1,6 @@
+AB1234*,SmartWatch,10.0,20
+CD5678#,Computer,5.0,50
+EF9012@,Phone,25.0,3
+GH3456#,Headset,12.0,10
+IJ7890*,Mouse,11.0,5,3
+INVALID,Item,1.0,1
