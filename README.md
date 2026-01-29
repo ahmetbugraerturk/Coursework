@@ -16,7 +16,7 @@ Below is a curated list of my key courses, categorized by discipline.
 
 | Semester | Course Code | Course Name | Key Concepts | Grade |
 | :--- | :--- | :--- | :--- | :---: |
-| **Fall 2025** | [`ENGR200`](./ENGR200%20-%20Probability%20%26%20Random%20Variables) | **Probability & Random Variables for Engineering** | Probability Axioms, Bayes' Theorem, Random Variables (PDF/CDF/PMF), Discrete/Continuous Distributions, Central Limit Theorem | *In Progress* |
+| **Fall 2025** | [`ENGR200`](./ENGR200%20-%20Probability%20%26%20Random%20Variables) | **Probability & Random Variables for Engineering** | Probability Axioms, Bayes' Theorem, Random Variables (PDF/CDF/PMF), Discrete/Continuous Distributions, Central Limit Theorem | **A** |
 | **Fall 2025** | [`MATH204`](./MATH204%20-%20Differential%20Equations) | **Differential Equations** | First/Second Order ODEs, Laplace Transforms, Systems of Linear Differential Equations, Heat Equations | **A** |
 | **Spring 2025** | [`MATH203`](./MATH203%20-%20Multivariable%20Calculus) | **Multivariable Calculus** | Partial Derivatives, Multiple Integrals, Vector Fields, Green's & Stokes' Theorems | **A+** |
 | **Fall 2024** | [`MATH106`](./MATH106%20-%20Calculus%20I) | **Calculus I** | Limits, Derivatives, Integrals, Fundamental Theorem of Calculus | **A** |
