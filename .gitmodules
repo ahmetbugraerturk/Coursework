@@ -1,0 +1,12 @@
+[submodule "COMP304 - Operating Systems/Project1/Shell-ish"]
+	path = COMP304 - Operating Systems/Project1/Shell-ish
+	url = https://github.com/ahmetbugraerturk/shell-ish.git
+[submodule "COMP304 - Operating Systems/Project2/syscall-sandbox"]
+	path = COMP304 - Operating Systems/Project2/syscall-sandbox
+	url = https://github.com/ahmetbugraerturk/syscall-sandbox.git
+[submodule "COMP304 - Operating Systems/Project3/coffee-supply-chain-simulator"]
+	path = COMP304 - Operating Systems/Project3/coffee-supply-chain-simulator
+	url = https://github.com/ahmetbugraerturk/coffee-supply-chain-simulator.git
+[submodule "PHYS450 - Quantum Computing/Project"]
+	path = PHYS450 - Quantum Computing/Project
+	url = https://github.com/ahmetbugraerturk/quantum-project.git
