@@ -27,8 +27,8 @@ Below is a curated list of my key courses, categorized by discipline.
 
 | Semester | Course Code | Course Name | Key Concepts and Courseworks | Grade |
 | :--- | :--- | :--- | :--- | :---: |
-| **Spring 2026** | [`COMP351`](./) | **Fundamentals of AI** |  | *In Progress* |
-| **Spring 2026** | [`COMP304`](./) | **Operaating Systems** |  | *In Progress* |
+| **Spring 2026** | [`COMP351`](./COMP351%20-%20Foundations%20of%20Artificial%20Intelligence/) | **Fundamentals of AI** | **Topics:** K-Means, GMM, Linear Regression, Regularizations, Logistic Regression <br> **Works:** Written and Programming Assignments | **A** |
+| **Spring 2026** | [`COMP304`](./COMP304%20-%20Operating%20Systems/) | **Operating Systems** | **Topics:** Process Management, Inter-Process Communication, CPU Scheduling, Synchronization, Memory Management (Paging/Segmentation), Distributed File Systems (HDFS) <br> **Works:** [Project 1: Shell-ish](./COMP304%20-%20Operating%20Systems/Project1/Shell-ish) (Custom Linux Shell), [Project 2: Syscall-Sandbox](./COMP304%20-%20Operating%20Systems/Project2/syscall-sandbox) (Secure System Call Interception with our own Kernel), [Project 3: Coffee Supply Chain Simulator](./COMP304%20-%20Operating%20Systems/Project3/coffee-supply-chain-simulator) (Multi-threaded Synchronization using pthreads) | **A** |
 | **Fall 2025** | [`COMP201`](./COMP201%20-%20Computer%20Systems%20and%20Programming) | **Computer Systems and Programming** | **Topics:** C, Assembly (x86-64), Memory Hierarchy <br> **Works:** Labs and Assignments | **A+** |
 | **Fall 2025** | [`COMP202`](./COMP202%20-%20Data%20Structures%20and%20Algorithms) | **Data Structures & Algorithms** | **Topics:** Complexity Analysis, Sorting, Hash Tables, Trees, Graphs <br> **Works:** Small Projects | **A** |
 | **Spring 2025** | [`COMP132`](./COMP132%20-%20Advanced%20Programming) | **Advanced Programming** | **Topics:** Object-Oriented Programming (Java), Inheritance, Polymorphism <br> **Works:** Labs and a [Comprehensive Game Project](./COMP132%20-%20Advanced%20Programming/Game%20Project)| **A+** |
@@ -41,9 +41,9 @@ Below is a curated list of my key courses, categorized by discipline.
 
 | Semester | Course Code | Course Name | Key Concepts | Grade |
 | :--- | :--- | :--- | :--- | :---: |
-| **Spring 2026** | [`PHYS450`](./) | **Quantum Computing** | Superposition, Entanglement, Algorithms (Grover's, Shor's), Error Correction, Hardware (Superconducting/Trapped Ions), QML (NISQ), Qiskit/Cirq | *In Progress* |
-| **Spring 2026** | [`PHYS206`](./) | **General Physics IV** | Optic, Modern Physics, Theory of Relativity, Quantum Mechanics | *In Progress* |
-| **Spring 2026** | [`PHYS201`](./) | **Mechanics** |  | *In Progress* |
+| **Spring 2026** | [`PHYS450`](./PHYS450%20-%20Quantum%20Computing/) | **Quantum Computing** | **Topics:** Superposition, Entanglement, Quantum Circuit Formalism, Algorithms (Grover's, Shor's), Quantum Error Correction, Quantum Machine Learning (NISQ), Qiskit Frameworks <br> **Works:** [Project](./PHYS450%20-%20Quantum%20Computing/Project) (Quantum Natural Language Processing for Music Composition using lambeq & PyTorch) | **A** |
+| **Spring 2026** | [`PHYS206`](./PHYS206%20-%20General%20Physics%20IV/) | **General Physics IV** | **Topics:** Wave-Particle Duality, Wave Optics, Special Theory of Relativity, Introduction to Quantum Mechanics, Schrödinger Equation, Atomic and Molecular Structures | **A** |
+| **Spring 2026** | [`PHYS201`](./PHYS201%20-%20Mechanics/) | **Mechanics** | **Topics:** Newtonian Mechanics, Oscillations & Phase Space, Non-linear Oscillations, Calculus of Variations, Lagrangian & Hamiltonian Dynamics, Central-Force Motion, Non-inertial Frames <br> **Works:** [Term Paper and Simulator](./PHYS201%20-%20Mechanics/Term%20Paper) | **A** |
 | **Fall 2025** | [`PHYS205`](./PHYS205%20-%20General%20Physics%20III) | **General Physics III** | **Topics:** Oscillations & Waves, Interference, Diffraction, Fourier Transform, Thermodynamics <br> **Works:** Assignments and Labs | **A** |
 | **Spring 2025** | [`PHYS102`](./PHYS102%20-%20General%20Physics%20II) | **General Physics II** | Electromagnetism, Gauss's Law, Circuits, Maxwell's Equations, Electromagnetic Waves | **A+** |
 | **Fall 2024** | [`PHYS101`](./PHYS101%20-%20General%20Physics%20I) | **General Physics I** | Newtonian Mechanics, Rotational Motion, Energy/Momentum Conservation, Simple Harmonic Oscillations | **A** |
